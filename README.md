@@ -5,7 +5,7 @@ This is a UITextField when 'enter' pressed, the object which is subclass of UIRe
 
 Thank you for your interest.
 
-To use this class, you only need 3 steps.
+To use this class, you only need 3 steps.(You don't need to write anything!!)
 
 1. import this class in your project file.
   
