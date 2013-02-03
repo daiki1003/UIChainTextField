@@ -7,10 +7,8 @@ Thank you for your interest.
 
 To use this class, 3 step will be needed.
 
-1. import this class.
+1. import this class in your project file.
   
-    import "UIChainTextField.h"
-
 2. in your InterfaceBuilder file which uses UITextField, open "Identity Inspector" (press option+command+3), and change custom class to UIChainTextField.
     
 3. open "Connections Inspector" (press option+command+6), connect outlets 'nextChainResponder' 
