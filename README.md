@@ -9,7 +9,7 @@ To use this class, 3 step will be needed.
 
 1. import this class.
   
-    #import "UIChainTextField.h"
+    import "UIChainTextField.h"
 
 2. in your InterfaceBuilder file which uses UITextField, open "Identity Inspector" (press option+command+3), and change custom class to UIChainTextField.
     
